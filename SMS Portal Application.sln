@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMSPortalApp-API", "SMS Portal Application\SMSPortalApp-API.csproj", "{83F8D103-E4FF-49AC-8218-348BB631E0E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMSPortal.Application", "SMSPortal.Application\SMSPortal.Application.csproj", "{EA22A705-438F-49E9-A4E6-662EBA03E7B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMSPortal.Domain", "SMSPortal.Domain\SMSPortal.Domain.csproj", "{5EFE400E-D3B2-4B5F-9254-03B78DC26BD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMSPortal.Infrastructure", "SMSPortal.Infrastructure\SMSPortal.Infrastructure.csproj", "{3416AF7B-79A0-4FD2-826E-0A33EB966ECF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMSPortal.Persistence", "SMSPortal.Persistence\SMSPortal.Persistence.csproj", "{E37B438D-2CDE-4E28-90A7-2CCE721CF826}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83F8D103-E4FF-49AC-8218-348BB631E0E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F8D103-E4FF-49AC-8218-348BB631E0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F8D103-E4FF-49AC-8218-348BB631E0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F8D103-E4FF-49AC-8218-348BB631E0E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA22A705-438F-49E9-A4E6-662EBA03E7B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA22A705-438F-49E9-A4E6-662EBA03E7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA22A705-438F-49E9-A4E6-662EBA03E7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA22A705-438F-49E9-A4E6-662EBA03E7B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EFE400E-D3B2-4B5F-9254-03B78DC26BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFE400E-D3B2-4B5F-9254-03B78DC26BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFE400E-D3B2-4B5F-9254-03B78DC26BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFE400E-D3B2-4B5F-9254-03B78DC26BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3416AF7B-79A0-4FD2-826E-0A33EB966ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3416AF7B-79A0-4FD2-826E-0A33EB966ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3416AF7B-79A0-4FD2-826E-0A33EB966ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3416AF7B-79A0-4FD2-826E-0A33EB966ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E37B438D-2CDE-4E28-90A7-2CCE721CF826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37B438D-2CDE-4E28-90A7-2CCE721CF826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37B438D-2CDE-4E28-90A7-2CCE721CF826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37B438D-2CDE-4E28-90A7-2CCE721CF826}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB89B17A-9ACC-4CFE-A991-BD8F6ADE7246}
+	EndGlobalSection
+EndGlobal
